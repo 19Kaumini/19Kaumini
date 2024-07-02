@@ -1,6 +1,8 @@
 <div style="display: flex; align-items: center;">
   <h1 style="margin: 0;">Hey there, I'm Kaumini Adikari</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" height="50" alt="GitHub GIF" style="margin-left: 10px;">
+  <span style="margin-left: 10px;">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" height="50" alt="GitHub GIF">
+  </span>
 </div>
 
 ## 👩‍💻 About Me 
