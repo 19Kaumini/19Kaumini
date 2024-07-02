@@ -56,14 +56,13 @@ I am a motivated, hardworking 3rd year Computer Engineering undergraduate at the
 - Codegoda **|** Participation **|** 2023
 - Huawei ICT Competition **|** Participation **|** Cloud Track **|** 2023
 
-
-## 🔥 My Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=19Kaumini&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=19Kaumini&theme=tokyonight&hide_border=true)<br/>
-
 ## Contact Information 📞
 
 - **Email:** [kau.adikari@gmail.com](mailto:kau.adikari@gmail.com)
 - **GitHub:** [19Kaumini](https://github.com/19Kaumini)
 - **LinkedIn:** [Kaumini Adikari](https://www.linkedin.com/in/kaumini-adikari-b345b6204/)
+
+## 🔥 My Stats :
+
+ ![](https://github-readme-stats.vercel.app/api?username=19Kaumini&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=19Kaumini&theme=tokyonight&hide_border=true)
