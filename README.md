@@ -56,7 +56,7 @@ I am a motivated, hardworking 3rd year Computer Engineering undergraduate at the
 - Codegoda **|** Participation **|** 2023
 - Huawei ICT Competition **|** Participation **|** Cloud Track **|** 2023
 
-## Contact Information 📞
+## 📞 Contact Information 
 
 - **Email:** [kau.adikari@gmail.com](mailto:kau.adikari@gmail.com)
 - **GitHub:** [19Kaumini](https://github.com/19Kaumini)
