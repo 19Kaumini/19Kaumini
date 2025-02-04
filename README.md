@@ -1,4 +1,4 @@
-# Hey there, I'm Kaumini Adikari <img src="GitHub.gif" width="50" height="50" alt="GitHub GIF" style="vertical-align: middle;">
+# Hey, I'm Kaumini Adikari <img src="GitHub.gif" width="50" height="50" alt="GitHub GIF" style="vertical-align: middle;">
 
 ## 👩‍💻 About Me 
 
@@ -42,27 +42,8 @@ I am a motivated, hardworking 3rd year Computer Engineering undergraduate at the
   - Developed a comprehensive platform for monitoring child growth and milestones.
   - Technologies: React.js, Spring Boot, MySQL, Swagger
 
-## 🏆 Competitions and Awards 
-
-- Coders V9.0 **|** 5th place **|** 2022
-- SparkLink 1.0 **|** 2nd Runners-up **|** 2023
-- ACES Hackathon **|** 2nd Runners-up **|** 2022
-- IEEEXTREME 17.0 **|** Participation **|** World Rank – Top 400 **|** 2023
-- Coders V10.0 **|** Top 20 **|** 2023
-- RealHack 4.0 **|** Final 15 **|** 2023
-- MoraXtreme 8.0 **|** Participation **|** 2023
-- RealHack 5.0 **|** Final 15 **|** 2024
-- PyHack 2.0 **|** Participation **|** 2023
-- Codegoda **|** Participation **|** 2023
-- Huawei ICT Competition **|** Participation **|** Cloud Track **|** 2023
-
 ## 📞 Contact Information 
 
 - **Email:** [kau.adikari@gmail.com](mailto:kau.adikari@gmail.com)
 - **GitHub:** [19Kaumini](https://github.com/19Kaumini)
 - **LinkedIn:** [Kaumini Adikari](https://www.linkedin.com/in/kaumini-adikari-b345b6204/)
-
-## 🔥 My Stats :
-
- ![](https://github-readme-stats.vercel.app/api?username=19Kaumini&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=19Kaumini&theme=tokyonight&hide_border=true)
